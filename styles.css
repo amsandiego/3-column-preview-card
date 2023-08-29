@@ -84,21 +84,21 @@ button#luxury-btn {
   color: var(--very-dark-cyan);
 }
 
-button:active {
+button:hover {
   border: solid 2px var(--light-gray);
 }
 
-button#sedan-btn:active {
+button#sedan-btn:hover {
   color: var(--light-gray);
   background-color: var(--bright-orange);
 }
 
-button#suv-btn:active {
+button#suv-btn:hover {
   color: var(--light-gray);
   background-color: var(--dark-cyan);
 }
 
-button#luxury-btn:active {
+button#luxury-btn:hover {
   color: var(--light-gray);
   background-color: var(--very-dark-cyan);
 }
